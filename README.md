@@ -1,29 +1,89 @@
-<h1>Hi, I'm Khadija! <br/><a href="https://github.com/magadjiya">Programmer</a> and <a href="https://www.linkedin.com/in/khadija-umar-dh/">Marketer</a></h1>
+<h1 align="center">👋 Assalamu Alaikum, I'm Khadija Umar Danhassan</h1>
+<h3 align="center">🌱 Faith-driven Backend Developer | ALX ProDev Learner | Community Builder</h3>
 
-<!-- 
-<h2>👨‍💻 Software Development Projects:</h2>
+<p align="center">
+  <a href="mailto:khadijaumardh@gmail.com">📧 Contact Me</a> • 
+  <a href="https://www.linkedin.com/in/khadija-umar-dh">💼 LinkedIn</a> • 
+  <a href="https://github.com/magadjiya">🌐 GitHub</a>
+</p>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
--->
 
-<h2>Connect with me:</h2>
+### About Me
 
-[<img align="left" alt="KhadijaDanhassan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][X]
-[<img align="left" alt="KhadijaDanhassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+> *“Code with intention. Build with purpose.”*
 
-[X]: https://x.com/k_danhassan
-[linkedin]: https://linkedin.com/in/khadija-umar-dh
+I'm a Backend Software Engineer in training at ALX ProDev, passionate about using technology to serve my community and my Lord.
+
+- 💻 Currently focused on mastering **Python | Django | APIs | Databases | DevOps Basics**
+- 🌍 Aiming to work remotely, contributing to impactful global projects
+- 💰 Career goal: Earn $1000/month through meaningful remote work
+- 🤝 I’m seeking collaborations on faith-based, educational, and community development projects
+
+
+### Tech Stack
+
+<div align="center">
+
+| **Category** | **Technologies** |
+|:--------------|:----------------|
+| **Languages** | Python 🐍 · JavaScript 💡 · Bash 💻 |
+| **Frameworks** | Django 🧩 · Flask 🌿 |
+| **Databases** | PostgreSQL 🐘 · MySQL 💾 |
+| **Tools & Platforms** | Git · GitHub · Docker · CI/CD |
+| **Learning** | REST APIs · Authentication Systems · Cloud Deployment |
+
+</div>
+
+
+### 🚀 My Learning Journey
+
+I’m currently building a strong foundation through the ALX ProDev Backend Program, focusing on:
+
+- ✅ Writing clean and efficient Python code
+- ✅ Designing and building RESTful APIs
+- ✅ Understanding database relationships and management
+- ✅ Collaborating through Git and GitHub
+- ✅ Preparing for real-world remote development
+
+
+### 🌸 My Values & Mission
+
+💫 **Faith:** Every line of code is an act of worship if done with sincerity.   
+🌍 **Community:** I believe in open-source collaboration and social good.  
+🧕🏽 **Representation:** Empowering Muslim women in tech through learning and contribution.
+
+
+### 🧩 Current Focus
+
+🚀 Building backend systems that are  
+- **Scalable** and **secure**  
+- **Ethical** and **faith-conscious**
+- 
+
+🛠️ Working on:
+- ALX ProDev Backend Path
+- Faith-based app prototypes
+- Strengthening DevOps and API integration skills
+
+---
+
+### 🌐 Let's Connect!
+
+<div align="center">
+
+💌 <a href="mailto:khadijaumardh@gmail.com">*Email Me*</a> | 
+🤝 <a href="https://www.linkedin.com/in/khadija-umar-dh">**LinkedIn**</a> | 
+💻 <a href="https://github.com/magadjiya">*GitHub*</a>
+
+</div>
+
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Khadija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=magadjiya&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=magadjiya&layout=compact&theme=calm)
+
+</div>
+
