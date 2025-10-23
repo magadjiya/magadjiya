@@ -35,7 +35,7 @@ I'm a Backend Software Engineer in training at ALX ProDev, passionate about usin
 </div>
 
 
-### 🚀 My Learning Journey
+### My Learning Journey
 
 I’m currently building a strong foundation through the ALX ProDev Backend Program, focusing on:
 
@@ -53,21 +53,19 @@ I’m currently building a strong foundation through the ALX ProDev Backend Prog
 🧕🏽 **Representation:** Empowering Muslim women in tech through learning and contribution.
 
 
-### 🧩 Current Focus
+### Current Focus
 
 🚀 Building backend systems that are  
 - **Scalable** and **secure**  
 - **Ethical** and **faith-conscious**
-- 
 
-🛠️ Working on:
+*Working on:*
 - ALX ProDev Backend Path
 - Faith-based app prototypes
 - Strengthening DevOps and API integration skills
 
----
 
-### 🌐 Let's Connect!
+### Let's Connect!
 
 <div align="center">
 
